@@ -1,0 +1,13 @@
+body {
+    background: yellow;
+}
+
+body h1 {
+    color: #6f0035; //hex-color
+}
+
+body p {
+    margin-right: 60px;
+    border-left: 2px dotted red;
+    border-bottom: 400px solid purple;
+}
